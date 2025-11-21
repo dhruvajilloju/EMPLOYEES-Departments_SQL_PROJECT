@@ -1,6 +1,6 @@
 # 📁 Employees SQL Mini Project
 
-A simple SQL practice project using a single `employees` table — designed to learn and apply real interview-style SQL queries.
+A simple SQL practice project using a single `employees` table — designed to learn and apply real interview-style SQL queries .
 
 🚀 Covers:
 - Table creation & sample data
@@ -15,6 +15,6 @@ A simple SQL practice project using a single `employees` table — designed to l
 ✔ Department-wise employee count  
 ✔ Full name using CONCAT  
 ✔ Employees hired in a specific year  
-✔ Salary grading using CASE  
+✔ Salary grading using CASE and so on....
 
 
